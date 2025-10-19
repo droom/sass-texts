@@ -1,0 +1,59 @@
+@font-face {
+  font-family: heldane-text-regular;
+  src: url(https://assets.codepen.io/76888/test-heldane-text-regular.woff2);
+}
+@font-face {
+  font-family: heldane-text-medium;
+  src: url(https://assets.codepen.io/76888/test-heldane-text-medium.woff2);
+}
+@font-face {
+  font-family: heldane-text-bold;
+  src: url(https://assets.codepen.io/76888/test-heldane-text-bold.woff2);
+}
+@font-face {
+  font-family: "miller";
+  src: url("../fonts/miller-text-roman-webfont.woff2");
+}
+body {
+  font-family: "miller", sans-serif;
+}
+
+h1 {
+  font-family: heldane-text-regular, serif;
+}
+
+.lead-in {
+  font-family: heldane-text-medium, serif;
+}
+
+.lead-in {
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 0.03em;
+}
+
+h3.hang {
+  position: relative;
+}
+
+h3.hang:before {
+  content: open-quote;
+  position: absolute;
+  left: -0.38em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 2.7rem;
+}
+
+header h1,
+h3 {
+  font-size: 1.5rem;
+  line-height: 1.9rem;
+}
+
+p {
+  font-size: 1.35rem;
+  line-height: 1.9rem;
+}
