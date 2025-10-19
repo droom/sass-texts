@@ -9,22 +9,6 @@
   ],
   "creatorBuild" : "34627",
   "files" : {
-    "\/dist\/audio\/audre-lorde-power-full.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/audio\/audre-lorde-power-full.mp3",
-      "oF" : 0
-    },
-    "\/dist\/audio\/audre-lorde-power.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/audio\/audre-lorde-power.mp3",
-      "oF" : 0
-    },
     "\/dist\/blakeley.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -93,6 +77,42 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist\/css\/type-details.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/type-details-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/dist\/css\/type-includes.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/type-includes-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/dist\/css\/type-size.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/type-size-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/dist\/css\/type.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -116,6 +136,30 @@
       "oAP" : "\/dist\/css\/vertical-min.css",
       "oF" : 0,
       "pg" : 0
+    },
+    "\/dist\/fonts\/abc-arizonatext-regular-trial.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/abc-arizonatext-regular-trial.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/BaskervilleURWExtNarMedRegular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/BaskervilleURWExtNarMedRegular.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/BaskervilleURWExtNarRegular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/BaskervilleURWExtNarRegular.woff2",
+      "oF" : 0
     },
     "\/dist\/fonts\/benton-sans-regular.woff2" : {
       "cB" : 0,
@@ -179,6 +223,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dist\/fonts\/ffbau-regular.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/gt-pressura-extended-bold-trial.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/gt-pressura-extended-bold-trial.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/gt-sectra-display-medium-trial.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/gt-sectra-display-medium-trial.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/gt-super-text-black.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/gt-super-text-black.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/gt-ultra-fine-bold-trial.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/gt-ultra-fine-bold-trial.woff2",
       "oF" : 0
     },
     "\/dist\/fonts\/heldanetext-bold.woff2" : {
@@ -269,18 +345,53 @@
       "oAP" : "\/dist\/fonts\/miller-text-roman-webfont.woff2",
       "oF" : 0
     },
-    "\/dist\/img\/design-01.jpg" : {
-      "ft" : 16384,
-      "iS" : 79907,
-      "jF" : 0,
+    "\/dist\/fonts\/test-epicene-display-light-italic.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/img\/design-01.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "oAP" : "\/dist\/fonts\/test-epicene-display-light-italic.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/test-epicene-display-medium-italic.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/test-epicene-display-medium-italic.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/test-epicene-display-medium.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/test-epicene-display-medium.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/test-epicene-display-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/test-epicene-display-regular.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/test-financier-display-regular-italic.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/test-financier-display-regular-italic.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/test-financier-display-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/test-financier-display-regular.woff2",
+      "oF" : 0
     },
     "\/dist\/img\/design-01.png" : {
       "ft" : 32768,
@@ -327,8 +438,8 @@
       "oA" : 0,
       "oAP" : "\/dist\/img\/design-04.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -352,19 +463,6 @@
       "iS" : 198786,
       "oA" : 0,
       "oAP" : "\/dist\/img\/ordinary-07.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/dist\/img\/ordinary-08.png" : {
-      "ft" : 32768,
-      "iS" : 50046,
-      "oA" : 0,
-      "oAP" : "\/dist\/img\/ordinary-08.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -482,50 +580,6 @@
       "oA" : 0,
       "oAP" : "\/dist\/index.html",
       "oF" : 0
-    },
-    "\/dist\/js\/audre-lorde-full-text.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/dist\/js\/audre-lorde-full-text-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/dist\/js\/audre-lorde.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/dist\/js\/audre-lorde-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/dist\/js\/jquery.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/dist\/js\/jquery.min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/dist\/js\/mark.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/dist\/js\/mark.min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
     },
     "\/dist\/kbs.html" : {
       "cB" : 0,
@@ -672,7 +726,7 @@
       "oS" : 0,
       "pg" : 0
     },
-    "\/src\/_scss\/type.scss" : {
+    "\/src\/_scss\/type-details.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -680,7 +734,33 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dist\/css\/type.css",
+      "oAP" : "\/dist\/css\/type-details.css",
+      "oF" : 2,
+      "oS" : 0,
+      "pg" : 0
+    },
+    "\/src\/_scss\/type-includes.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/type-includes.css",
+      "oF" : 2,
+      "oS" : 0,
+      "pg" : 0
+    },
+    "\/src\/_scss\/type-size.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/type-size.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0

@@ -1,0 +1,112 @@
+@font-face {
+  font-family: heldane-text-regular;
+  src: url(https://assets.codepen.io/76888/test-heldane-text-regular.woff2);
+}
+@font-face {
+  font-family: heldane-text-medium;
+  src: url(https://assets.codepen.io/76888/test-heldane-text-medium.woff2);
+}
+@font-face {
+  font-family: heldane-text-bold;
+  src: url(https://assets.codepen.io/76888/test-heldane-text-bold.woff2);
+}
+@font-face {
+  font-family: "graphik-400";
+  src: url("../fonts/commercial-graphik-400-regular.woff2");
+}
+@font-face {
+  font-family: "graphik-500";
+  src: url("../fonts/commercial-graphik-500-medium.woff2");
+}
+@font-face {
+  font-family: "abc-arizonatext-regular";
+  src: url("../fonts/abc-arizonatext-regular-trial.woff2");
+}
+@font-face {
+  font-family: "gt-pressura-extended-bold";
+  src: url("../fonts/gt-pressura-extended-bold-trial.woff2");
+}
+@font-face {
+  font-family: "ffbau-medium";
+  src: url("../fonts/ffbau-medium.woff2");
+}
+@font-face {
+  font-family: "ffbau-regular";
+  src: url("../fonts/ffbau-regular.woff2");
+}
+@font-face {
+  font-family: "gt-sectra-display-medium";
+  src: url("../fonts/gt-sectra-display-medium-trial.woff2");
+}
+@font-face {
+  font-family: "gt-super-text-black";
+  src: url("../fonts/gt-super-text-black.woff2");
+}
+@font-face {
+  font-family: "gt-super-text-black";
+  src: url("../fonts/gt-super-text-black.woff2");
+}
+@font-face {
+  font-family: "gt-ultra-fine-bold-trial";
+  src: url("../fonts/gt-ultra-fine-bold-trial.woff2");
+}
+@font-face {
+  font-family: "BaskervilleURWExtNarRegular";
+  src: url("../fonts/BaskervilleURWExtNarRegular.woff2");
+}
+@font-face {
+  font-family: "BaskervilleURWExtNarMedRegular";
+  src: url("../fonts/BaskervilleURWExtNarMedRegular.woff2");
+}
+@font-face {
+  font-family: "test-epicene-display-light-italic";
+  src: url("../fonts/test-epicene-display-light-italic.woff2");
+}
+@font-face {
+  font-family: "test-epicene-display-medium-italic";
+  src: url("../fonts/test-epicene-display-medium-italic.woff2");
+}
+@font-face {
+  font-family: "test-epicene-display-regular";
+  src: url("../fonts/test-epicene-display-regular.woff2");
+}
+@font-face {
+  font-family: "test-financier-display-regular-italic";
+  src: url("../fonts/test-financier-display-regular-italic.woff2");
+}
+@font-face {
+  font-family: "test-financier-display-regular";
+  src: url("../fonts/test-financier-display-regular.woff2");
+}
+h1 {
+  font-family: heldane-text-regular, serif;
+}
+
+article h1 {
+  font-family: heldane-text-regular, serif;
+  font-family: "test-epicene-display-light-italic", sans-serif;
+  font-family: "test-epicene-display-medium-italic", sans-serif;
+  font-family: "test-epicene-display-regular", sans-serif;
+  font-family: "test-financier-display-regular-italic", sans-serif;
+  font-family: "test-financier-display-regular", sans-serif;
+}
+
+article h3 {
+  font-family: heldane-text-regular, serif;
+}
+
+article p {
+  font-family: heldane-text-regular, serif;
+}
+
+article p .lead-in {
+  font-family: heldane-text-medium, serif;
+}
+
+.element dl {
+  font-family: "graphik-400", sans-serif;
+}
+
+.element dl dd.title {
+  font-family: "graphik-500", sans-serif;
+}

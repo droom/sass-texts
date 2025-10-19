@@ -1,4 +1,3 @@
-
 .grid {
   display: grid;
   grid-template-columns: 1fr 31px 1fr 0;
@@ -10,11 +9,9 @@
   min-height: 144px;
 }
 .grid .element .tile .img {
-  // background: #FBE072;
   justify-self: center;
   align-self: center;
   width: 100px;
-  // height: 80px;
 }
 .grid .element .tile .img img{
   width: 100%
@@ -60,12 +57,12 @@
   }
   .grid .element .img {
     width: 80px;
-    // height: 92px;
   }
 }
 
-
-
+.element{
+  margin: 0 0 20px 0;
+}
 .element dl{
   padding-top: 12px;
 }
@@ -74,7 +71,7 @@
 }
 
 .element dl dd.author{
-  padding-top: 2px;
+  padding-top: 4px;
 }
 
 .element dl dd.date{

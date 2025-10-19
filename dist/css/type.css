@@ -11,10 +11,6 @@
   src: url(https://assets.codepen.io/76888/test-heldane-text-bold.woff2);
 }
 @font-face {
-  font-family: "miller";
-  src: url("../fonts/miller-text-roman-webfont.woff2");
-}
-@font-face {
   font-family: "graphik-400";
   src: url("../fonts/commercial-graphik-400-regular.woff2");
 }
@@ -22,8 +18,16 @@
   font-family: "graphik-500";
   src: url("../fonts/commercial-graphik-500-medium.woff2");
 }
+@font-face {
+  font-family: "ffbau-medium";
+  src: url("../fonts/ffbau-medium.woff2");
+}
+@font-face {
+  font-family: "ffbau-regular";
+  src: url("../fonts/ffbau-regular.woff2");
+}
 body {
-  font-family: "miller", sans-serif;
+  font-family: arial, sans-serif;
 }
 
 h1 {
@@ -35,6 +39,18 @@ article h1 {
   font-family: "graphik-500", sans-serif;
 }
 
+article h3 {
+  font-family: heldane-text-regular, serif;
+}
+
+article p {
+  font-family: heldane-text-regular, serif;
+}
+
+article p .lead-in {
+  font-family: heldane-text-medium, serif;
+}
+
 .element dl {
   font-family: "graphik-400", sans-serif;
   font-size: 14px;
@@ -42,10 +58,6 @@ article h1 {
 
 .element dl dd.title {
   font-family: "graphik-500", sans-serif;
-}
-
-.lead-in {
-  font-family: heldane-text-medium, serif;
 }
 
 .lead-in {
@@ -61,21 +73,5 @@ h3.hang {
 h3.hang:before {
   content: open-quote;
   position: absolute;
-  left: -0.38em;
-}
-
-h1 {
-  font-size: 2.6rem;
-  line-height: 2.8rem;
-}
-
-header h1,
-h3 {
-  font-size: 1.75rem;
-  line-height: 2.1rem;
-}
-
-p {
-  font-size: 1.35rem;
-  line-height: 1.85rem;
+  left: -0.58em;
 }

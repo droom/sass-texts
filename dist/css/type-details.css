@@ -1,0 +1,15 @@
+.lead-in {
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 0.03em;
+}
+
+h3.hang {
+  position: relative;
+}
+
+h3.hang:before {
+  content: open-quote;
+  position: absolute;
+  left: -0.58em;
+}

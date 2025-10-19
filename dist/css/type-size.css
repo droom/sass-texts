@@ -1,0 +1,19 @@
+.element dl {
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 2.6rem;
+}
+
+header h1,
+h3 {
+  font-size: 1.75rem;
+  line-height: 2.1rem;
+}
+
+p {
+  font-size: 1.35rem;
+  line-height: 1.85rem;
+}

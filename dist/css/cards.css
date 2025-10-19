@@ -59,6 +59,10 @@
     width: 80px;
   }
 }
+.element {
+  margin: 0 0 20px 0;
+}
+
 .element dl {
   padding-top: 12px;
 }
@@ -68,7 +72,7 @@
 }
 
 .element dl dd.author {
-  padding-top: 2px;
+  padding-top: 4px;
 }
 
 .element dl dd.date {
