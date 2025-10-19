@@ -14,12 +14,34 @@
   font-family: "miller";
   src: url("../fonts/miller-text-roman-webfont.woff2");
 }
+@font-face {
+  font-family: "graphik-400";
+  src: url("../fonts/commercial-graphik-400-regular.woff2");
+}
+@font-face {
+  font-family: "graphik-500";
+  src: url("../fonts/commercial-graphik-500-medium.woff2");
+}
 body {
   font-family: "miller", sans-serif;
 }
 
 h1 {
   font-family: heldane-text-regular, serif;
+}
+
+article h1 {
+  font-family: heldane-text-regular, serif;
+  font-family: "graphik-500", sans-serif;
+}
+
+.element dl {
+  font-family: "graphik-400", sans-serif;
+  font-size: 14px;
+}
+
+.element dl dd.title {
+  font-family: "graphik-500", sans-serif;
 }
 
 .lead-in {
@@ -43,17 +65,17 @@ h3.hang:before {
 }
 
 h1 {
-  font-size: 2.5rem;
-  line-height: 2.7rem;
+  font-size: 2.6rem;
+  line-height: 2.8rem;
 }
 
 header h1,
 h3 {
-  font-size: 1.5rem;
-  line-height: 1.9rem;
+  font-size: 1.75rem;
+  line-height: 2.1rem;
 }
 
 p {
   font-size: 1.35rem;
-  line-height: 1.9rem;
+  line-height: 1.85rem;
 }

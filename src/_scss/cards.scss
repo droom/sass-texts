@@ -10,11 +10,11 @@
   min-height: 144px;
 }
 .grid .element .tile .img {
-  background: #FBE072;
+  // background: #FBE072;
   justify-self: center;
   align-self: center;
-  width: 90px;
-  height: 80px;
+  width: 100px;
+  // height: 80px;
 }
 .grid .element .tile .img img{
   width: 100%
@@ -41,7 +41,7 @@
     grid-template-columns:  1fr 31px 1fr 31px 1fr 31px 1fr ;
   }
   .grid .gutter:nth-child(1) .hr,
-.grid .gutter:nth-child(5) .hr {
+  .grid .gutter:nth-child(5) .hr {
     // background: rgba(0, 0, 0, 0.8);
   }
 }
@@ -60,22 +60,23 @@
   }
   .grid .element .img {
     width: 80px;
-    height: 92px;
+    // height: 92px;
   }
 }
 
 
 
 .element dl{
-  padding: 12px 0 0 0;
+  padding-top: 12px;
 }
-
-.element dl dd{
-  padding: 0;
-  margin: 0;
-}
-
 .element dl dt{
   display: none;
 }
 
+.element dl dd.author{
+  padding-top: 2px;
+}
+
+.element dl dd.date{
+  display: none;
+}

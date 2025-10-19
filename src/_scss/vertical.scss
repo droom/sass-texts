@@ -1,0 +1,27 @@
+article h1 + h3{
+  margin-top: 1.5rem;
+}
+
+article h1 + p{
+  margin-top: 1.5rem;
+}
+
+article h1 + h3 + p{
+  margin-top: 1.5rem;
+}
+
+article h3{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+article p + p {
+  margin-top: 0.8rem;
+}
+
+header{
+  margin-top: 15px;
+  margin-bottom: 80px;
+}

@@ -69,6 +69,18 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist\/css\/horizontal.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/horizontal-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
     "\/dist\/css\/links.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -93,6 +105,26 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/dist\/css\/vertical.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/vertical-min.css",
+      "oF" : 0,
+      "pg" : 0
+    },
+    "\/dist\/fonts\/benton-sans-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/benton-sans-regular.woff2",
+      "oF" : 0
+    },
     "\/dist\/fonts\/circularstd-bold.woff2" : {
       "cB" : 0,
       "ft" : 8192,
@@ -115,6 +147,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dist\/fonts\/circularstd-medium.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/commercial-graphik-400-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/commercial-graphik-400-regular.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/commercial-graphik-500-medium.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/commercial-graphik-500-medium.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/ffbau-medium.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/ffbau-medium.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/ffbau-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/ffbau-regular.woff2",
       "oF" : 0
     },
     "\/dist\/fonts\/heldanetext-bold.woff2" : {
@@ -165,6 +229,30 @@
       "oAP" : "\/dist\/fonts\/heldanetext-regularitalic.woff2",
       "oF" : 0
     },
+    "\/dist\/fonts\/klim-sohne-bold.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/klim-sohne-bold.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/klim-sohne-medium.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/klim-sohne-medium.woff2",
+      "oF" : 0
+    },
+    "\/dist\/fonts\/klim-sohne-regular.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/fonts\/klim-sohne-regular.woff2",
+      "oF" : 0
+    },
     "\/dist\/fonts\/miller-text-roman-webfont.woff" : {
       "cB" : 0,
       "ft" : 8192,
@@ -179,30 +267,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dist\/fonts\/miller-text-roman-webfont.woff2",
-      "oF" : 0
-    },
-    "\/dist\/fonts\/sohne-bold.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/fonts\/sohne-bold.woff2",
-      "oF" : 0
-    },
-    "\/dist\/fonts\/sohne-medium.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/fonts\/sohne-medium.woff2",
-      "oF" : 0
-    },
-    "\/dist\/fonts\/sohne-regular.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dist\/fonts\/sohne-regular.woff2",
       "oF" : 0
     },
     "\/dist\/img\/design-01.jpg" : {
@@ -582,6 +646,19 @@
       "oS" : 0,
       "pg" : 0
     },
+    "\/src\/_scss\/horizontal.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/horizontal.css",
+      "oF" : 2,
+      "oS" : 0,
+      "pg" : 0
+    },
     "\/src\/_scss\/links.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -604,6 +681,19 @@
       "ma" : 0,
       "oA" : 0,
       "oAP" : "\/dist\/css\/type.css",
+      "oF" : 2,
+      "oS" : 0,
+      "pg" : 0
+    },
+    "\/src\/_scss\/vertical.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/dist\/css\/vertical.css",
       "oF" : 2,
       "oS" : 0,
       "pg" : 0
@@ -689,8 +779,8 @@
   },
   "projectAttributes" : {
     "creationDate" : 764895943.82527995,
-    "displayValue" : "sass-texts",
-    "displayValueWasSetByUser" : 0,
+    "displayValue" : "SASS-Texts",
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-pink",
     "iconImageWasSetByUser" : 0
   },
